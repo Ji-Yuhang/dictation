@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Dictation.ui.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/mp3-1.png</file>
+        <file>image/mp3-2.png</file>
+    </qresource>
+</RCC>
